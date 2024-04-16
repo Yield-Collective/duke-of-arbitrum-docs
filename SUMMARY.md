@@ -17,6 +17,7 @@
 
 ***
 
+* [Buy DUKE](https://app.uniswap.org/swap?outputCurrency=0xee095Eb6354473E4066054c5B06c82E99fa2b96e\&chain=arbitrum)
 * [Website](https://dukeofarbitrum.com)
 * [X](https://x.com/dukeofarbitrum)
 * [Telegram](https://t.me/+L1dTzvPXOw9hOGIx)

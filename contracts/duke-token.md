@@ -1,10 +1,24 @@
 # 🐶 DUKE Token
 
-The DUKE token contract address is deployed on Arbitrum One mainnet at address: \
-`0xee095eb6354473e4066054c5b06c82e99fa2b96e`
+## DUKE Contract
 
-View DUKE on [Arbiscan](https://arbiscan.io/token/0xee095eb6354473e4066054c5b06c82e99fa2b96e).
+DUKE token contract address is deployed on Arbitrum One mainnet:\
+[0xee095eb6354473e4066054c5b06c82e99fa2b96e](https://arbiscan.io/address/0xee095eb6354473e4066054c5b06c82e99fa2b96e)
 
+View DUKE smart contract on [Arbiscan](https://arbiscan.io/token/0xee095eb6354473e4066054c5b06c82e99fa2b96e).
+
+{% hint style="info" %}
 There are 10,000,000,000 total supply of $DUKE tokens, contract ownership is renounced, and the supply is hardcapped.
+{% endhint %}
+
+## Liquidity Pools
+
+Uniswap: [0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA](https://arbiscan.io/address/0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA)
+
+Camelot: [0x4f88231c950324F3DC6486E3974109E13eaE0F11](https://arbiscan.io/address/0x4f88231c950324f3dc6486e3974109e13eae0f11)
+
+## LP Vaults
+
+Charm Finance:  [0x3Eaf2e544Cdcb7738C08cC01effAae1c7e0fB8a0](https://arbiscan.io/address/0x3eaf2e544cdcb7738c08cc01effaae1c7e0fb8a0)
 
 <figure><img src="../.gitbook/assets/128xDuke.png" alt=""><figcaption><p>$DUKE</p></figcaption></figure>

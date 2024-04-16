@@ -1,10 +1,10 @@
 ---
-cover: .gitbook/assets/Duke.svg
-coverY: 272.224
+cover: .gitbook/assets/DOA_Background.png
+coverY: 120.57695167286245
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
