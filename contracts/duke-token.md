@@ -13,9 +13,9 @@ There are 10,000,000,000 total supply of $DUKE tokens, contract ownership is ren
 
 ## Liquidity Pools
 
-Uniswap: [0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA](https://arbiscan.io/address/0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA)
+Uniswap WETH/DUKE: [0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA](https://arbiscan.io/address/0xb206c1B0D20b1C6EE6f78d35F15CD99B7CfdD9CA)
 
-Camelot: [0x4f88231c950324F3DC6486E3974109E13eaE0F11](https://arbiscan.io/address/0x4f88231c950324f3dc6486e3974109e13eae0f11)
+Uniswap USDC/DUKE: [0x1B1f7aB71B9fe86545B25cD347eFF59932D70AEF](https://arbiscan.io/address/0x1B1f7aB71B9fe86545B25cD347eFF59932D70AEF)
 
 ## LP Vaults
 
