@@ -13,7 +13,7 @@
 
 ## Contracts
 
-* [🐶 DUKE Token](contracts/duke-token.md)
+* [🐶 DUKE contracts](contracts/duke-contracts.md)
 
 ***
 
