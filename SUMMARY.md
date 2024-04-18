@@ -14,9 +14,8 @@
 
 * [🐶 DUKE contracts](contracts/duke-contracts.md)
 
-***
+## LINKS
 
-* [LINKS](links.md)
 * [Buy DUKE](https://app.uniswap.org/swap?outputCurrency=0xee095Eb6354473E4066054c5B06c82E99fa2b96e\&chain=arbitrum)
 * [Website](https://dukeofarbitrum.com)
 * [X](https://x.com/dukeofarbitrum)
