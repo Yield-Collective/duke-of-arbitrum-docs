@@ -9,7 +9,7 @@ We intend to onboard folks from many different cultures, from all across the wor
 
 Snapshot Voting
 
-Duke of Arbitrum has a Snapshot Space at [https://snapshot.org/#/dukeofarbitrum.eth](https://snapshot.org/#/dukeofarbitrum.eth) for DAO voting.
+Duke of Arbitrum has a Snapshot Space at [https://snapshot.org/#/dukeofarbitrum.eth](https://snapshot.org/#/dukeofarbitrum.eth) for DAO voting where $DUKE token holders can vote on proposals.
 
 
 

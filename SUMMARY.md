@@ -1,9 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to Duke of Arbitrum!](README.md)
-
 ## About us
 
+* [👋 Welcome to Duke of Arbitrum!](README.md)
 * [🚀 Vision and Focus](about-us/vision-and-focus.md)
 * [💖 Values](about-us/values.md)
 
@@ -17,6 +16,7 @@
 
 ***
 
+* [LINKS](links.md)
 * [Buy DUKE](https://app.uniswap.org/swap?outputCurrency=0xee095Eb6354473E4066054c5B06c82E99fa2b96e\&chain=arbitrum)
 * [Website](https://dukeofarbitrum.com)
 * [X](https://x.com/dukeofarbitrum)

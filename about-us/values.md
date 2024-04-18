@@ -10,7 +10,7 @@
 
 <summary>🚀 Integrity</summary>
 
-We are committed to doing the best we can to achieving our goal and will never waver from this committment.
+We are committed to doing the best we can to achieving our goal and will never waver from this commitment.
 
 </details>
 
